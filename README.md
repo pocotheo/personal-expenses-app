@@ -1,16 +1,7 @@
-# personalexpenses
+# Personal Expenses App
 
-A new Flutter project.
+The second app I built during my Flutter and Dart Course by Max Schwarzmuller.
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The app lets you input your personal expenses: name of the thing you purcahsed, the amount you spent on it, the date when you made the purchase; and shows this list on its main page. Above the list there's graph showing on which day of the week you spent the most money.
